@@ -1,0 +1,1 @@
+The purpose of the of this recipe project is to demonstrate basic understanding of html elements, attributes, and links and their relationships in order to develop a functional html based website. 
